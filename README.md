@@ -1,5 +1,4 @@
 ![MartQ Banner](MartQ[0].png)
-![MartQ Banner](MartQ[1].png)
 # Welcome to MartQ!
 MartQ is a revolutionary traditional market shopping, powered by the CH2-PS553 team from [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy/mycompany/) 2023 H2.
 
